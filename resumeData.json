@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name": "Mohammad Hossein Golestan",
+    "occupation": "Web Developer",
+    "description": "",
+    "image": "profilepic.png",
+    "bio": "Self-taught and creative programmer with several years of coding experience. Enthusiastic and passionate web developer who can bring new thoughts from one sector to the next. Constantly eager to learn new technologies. Capable of delivering projects on schedule at a very high standard.",
+    "contactmessage": "",
+    "email": "Golestan1369@gmail.com",
+    "phone": "+47 412 631 90",
+    "address": {
+      "street": "Grenseveien 8",
+      "city": "Oslo",
+      "state": "Oslo",
+      "zip": "0571"
+    },
+    "website": "http://mhgolestan.github.io/",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/mh.golestan",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/mhgolestan",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mhgolestan/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/m.h.golestan/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mhgolestan",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Norwegian University of Science and Technology",
+        "degree": "PhD in Petroleum Engineering",
+        "graduated": "April 2018 - Present",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Norwegian University of Science and Technology",
+        "title": "PhD Research Fellow",
+        "years": "2018 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "Node.js",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Vanilla JS Projects",
+        "category": "15 plain JavaScript projects",
+        "image": "plain-JS-projects.jpg",
+        "url": "https://github.com/mhgolestan/javascript-basic-projects"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
