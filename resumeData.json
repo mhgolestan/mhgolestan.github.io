@@ -55,7 +55,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "Norwegian University of Science and Technology",
@@ -75,7 +75,7 @@
     "skills": [
       {
         "name": "JavaScript",
-        "level": "100%"
+        "level": "80%"
       },
       {
         "name": "ReactJs",
@@ -86,12 +86,8 @@
         "level": "100%"
       },
       {
-        "name": "HTML5",
+        "name": "HTML5 & CSS",
         "level": "100%"
-      },
-      {
-        "name": "CSS",
-        "level": "80%"
       },
       {
         "name": "MongoDB",
@@ -102,11 +98,7 @@
         "level": "60%"
       },
       {
-        "name": "Python",
-        "level": "80%"
-      },
-      {
-        "name": "C++",
+        "name": "Python & C++",
         "level": "80%"
       }
     ]
@@ -114,16 +106,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Vanilla JS Projects",
-        "category": "15 plain JavaScript projects",
-        "image": "plain-JS-projects.jpg",
-        "url": "https://github.com/mhgolestan/javascript-basic-projects"
+        "title": "Face Recognition",
+        "category": "React",
+        "image": "face-recognition.jpg",
+        "url": "https://face-recognition-nu.vercel.app/"
       },
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Weather App",
+        "category": "React",
+        "image": "Weather-app.jpg",
+        "url": "https://weather-app-react-topaz.vercel.app/"
       }
     ]
   },
