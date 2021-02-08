@@ -49,7 +49,7 @@ class Header extends Component {
                 Works
               </a>
             </li>
-            <li>
+            {/*<li>
               <a className="smoothscroll" href="#testimonials">
                 Testimonials
               </a>
@@ -58,7 +58,7 @@ class Header extends Component {
               <a className="smoothscroll" href="#contact">
                 Contact
               </a>
-            </li>
+            </li>*/}
           </ul>
         </nav>
 
