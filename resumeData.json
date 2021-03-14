@@ -106,6 +106,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "YouTube Clone",
+        "category": "React + Mobx",
+        "image": "youtube_clone.png",
+        "url": "https://youtube-clone-react-mobx.vercel.app/"
+      },
+      {
         "title": "Face Recognition",
         "category": "React",
         "image": "face-recognition.jpg",
@@ -120,7 +126,7 @@
       {
         "title": "List of Countries",
         "category": "React",
-        "image": "list_of_countries.jpg",
+        "image": "list_of_countries.png",
         "url": "https://list-of-countries-zeta.vercel.app/"
       }
     ]
