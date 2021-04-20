@@ -128,12 +128,6 @@
         "category": "React",
         "image": "Weather-app.jpg",
         "url": "https://weather-app-react-topaz.vercel.app/"
-      },
-      {
-        "title": "List of Countries",
-        "category": "React",
-        "image": "list_of_countries.png",
-        "url": "https://list-of-countries-zeta.vercel.app/"
       }
     ]
   },
