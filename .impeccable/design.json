@@ -1,0 +1,618 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-25T18:00:00Z",
+  "title": "Design System: Mohammad Hossein Golestan",
+  "extensions": {
+    "colorMeta": {
+      "ground": {
+        "role": "neutral",
+        "displayName": "Cool Grain White",
+        "canonical": "oklch(95.4% 0.003 247.9)",
+        "tonalRamp": [
+          "#0a0b0d",
+          "#232426",
+          "#3e4041",
+          "#5c5e5f",
+          "#7c7d7f",
+          "#9d9fa0",
+          "#c2c4c6",
+          "#edeff1"
+        ]
+      },
+      "ground-2": {
+        "role": "neutral",
+        "displayName": "Recessed Well",
+        "canonical": "oklch(92.6% 0.006 239.8)",
+        "tonalRamp": [
+          "#090c0d",
+          "#212427",
+          "#3d4043",
+          "#5b5e61",
+          "#7a7e80",
+          "#9b9fa2",
+          "#c1c5c8",
+          "#ebeff2"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Graphite Ink",
+        "canonical": "oklch(20.0% 0.010 268.2)",
+        "tonalRamp": [
+          "#090b10",
+          "#222429",
+          "#3d4045",
+          "#5b5d64",
+          "#7a7d84",
+          "#9b9ea5",
+          "#c1c4cb",
+          "#ebeef6"
+        ]
+      },
+      "ink-2": {
+        "role": "neutral",
+        "displayName": "Secondary Graphite",
+        "canonical": "oklch(41.1% 0.018 260.7)",
+        "tonalRamp": [
+          "#070b13",
+          "#1f242d",
+          "#3a404a",
+          "#585e68",
+          "#777e89",
+          "#989faa",
+          "#bdc5d0",
+          "#e8effb"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Hairline Grey",
+        "canonical": "oklch(83.3% 0.011 248.0)",
+        "tonalRamp": [
+          "#080c0f",
+          "#202529",
+          "#3b4045",
+          "#595e63",
+          "#787e83",
+          "#999fa5",
+          "#bfc5cb",
+          "#e9eff5"
+        ]
+      },
+      "tick": {
+        "role": "neutral",
+        "displayName": "Point-Count Tick",
+        "canonical": "rgba(20, 22, 27, .16)"
+      },
+      "epoxy": {
+        "role": "primary",
+        "displayName": "Petrographic Epoxy Blue",
+        "canonical": "oklch(43.6% 0.228 265.7)",
+        "tonalRamp": [
+          "#010034",
+          "#050077",
+          "#0c1ab5",
+          "#2047db",
+          "#3e6ffc",
+          "#719afc",
+          "#aac4fd",
+          "#e7effe"
+        ]
+      },
+      "epoxy-ink": {
+        "role": "neutral",
+        "displayName": "Plate White",
+        "canonical": "#ffffff"
+      },
+      "oil": {
+        "role": "secondary",
+        "displayName": "Request Packet Amber",
+        "canonical": "oklch(75.6% 0.154 80.2)",
+        "tonalRamp": [
+          "#120900",
+          "#312101",
+          "#543a02",
+          "#7a5606",
+          "#a2740b",
+          "#cb9319",
+          "#f8b836",
+          "#ffeccd"
+        ]
+      },
+      "plate-ink-2": {
+        "role": "secondary",
+        "displayName": "Epoxy Plate Mist",
+        "canonical": "oklch(89.9% 0.049 274.0)",
+        "tonalRamp": [
+          "#06081f",
+          "#1d223c",
+          "#383e5a",
+          "#555c7a",
+          "#747c9b",
+          "#959dbe",
+          "#bac2e5",
+          "#e9eefe"
+        ]
+      },
+      "ground-xpl": {
+        "role": "neutral",
+        "displayName": "Extinct Black",
+        "canonical": "oklch(15.5% 0.007 271.0)",
+        "tonalRamp": [
+          "#0a0b0e",
+          "#232427",
+          "#3e4043",
+          "#5c5d61",
+          "#7c7d81",
+          "#9d9ea3",
+          "#c2c4c8",
+          "#edeef3"
+        ]
+      },
+      "ground-2-xpl": {
+        "role": "neutral",
+        "displayName": "Extinct Well",
+        "canonical": "oklch(20.5% 0.010 268.2)",
+        "tonalRamp": [
+          "#090b10",
+          "#222429",
+          "#3d4045",
+          "#5b5d64",
+          "#7a7d84",
+          "#9b9ea5",
+          "#c1c4cb",
+          "#ebeef6"
+        ]
+      },
+      "ink-xpl": {
+        "role": "neutral",
+        "displayName": "Ash Ink",
+        "canonical": "oklch(94.6% 0.007 124.5)",
+        "tonalRamp": [
+          "#0a0c09",
+          "#232521",
+          "#3f403c",
+          "#5d5e5a",
+          "#7c7e79",
+          "#9d9f9a",
+          "#c3c5c0",
+          "#edefea"
+        ]
+      },
+      "ink-2-xpl": {
+        "role": "neutral",
+        "displayName": "Secondary Ash",
+        "canonical": "oklch(74.9% 0.016 260.7)",
+        "tonalRamp": [
+          "#080b12",
+          "#20242c",
+          "#3b4048",
+          "#595e67",
+          "#787e87",
+          "#999fa9",
+          "#bec4cf",
+          "#e8eff9"
+        ]
+      },
+      "rule-xpl": {
+        "role": "neutral",
+        "displayName": "Dark Hairline",
+        "canonical": "oklch(30.9% 0.015 264.3)",
+        "tonalRamp": [
+          "#080b12",
+          "#20242c",
+          "#3c4048",
+          "#595e67",
+          "#797d87",
+          "#9a9fa8",
+          "#bfc4ce",
+          "#e9eff9"
+        ]
+      },
+      "tick-xpl": {
+        "role": "neutral",
+        "displayName": "Dark Point-Count Tick",
+        "canonical": "rgba(236, 238, 233, .12)"
+      },
+      "epoxy-xpl": {
+        "role": "primary",
+        "displayName": "Extinct-Field Gold",
+        "canonical": "oklch(84.8% 0.147 91.1)",
+        "tonalRamp": [
+          "#100a00",
+          "#2e2300",
+          "#4f3e00",
+          "#725b01",
+          "#987a02",
+          "#bf9a10",
+          "#e8c03f",
+          "#ffeebd"
+        ]
+      },
+      "epoxy-ink-xpl": {
+        "role": "neutral",
+        "displayName": "Ink on Gold",
+        "canonical": "#0b0c0f"
+      },
+      "oil-xpl": {
+        "role": "secondary",
+        "displayName": "Packet Amber Under Crossed Polars",
+        "canonical": "oklch(64.4% 0.131 78.7)",
+        "tonalRamp": [
+          "#120900",
+          "#312001",
+          "#553a03",
+          "#7b5608",
+          "#a3730f",
+          "#ca932b",
+          "#f2b958",
+          "#feeccf"
+        ]
+      },
+      "pore-xpl": {
+        "role": "neutral",
+        "displayName": "Extinct Pore",
+        "canonical": "#050506"
+      },
+      "plate-xpl": {
+        "role": "secondary",
+        "displayName": "Gypsum Plate Magenta",
+        "canonical": "oklch(47.9% 0.158 354.8)",
+        "tonalRamp": [
+          "#1d000d",
+          "#460127",
+          "#760244",
+          "#9c2a62",
+          "#c24e82",
+          "#e870a4",
+          "#fda6c8",
+          "#ffe7ef"
+        ]
+      },
+      "plate-ink-2-xpl": {
+        "role": "secondary",
+        "displayName": "Gypsum Plate Mist",
+        "canonical": "oklch(90.1% 0.045 347.2)",
+        "tonalRamp": [
+          "#18030f",
+          "#341b28",
+          "#513644",
+          "#715462",
+          "#927382",
+          "#b494a4",
+          "#dbb9ca",
+          "#ffe7f2"
+        ]
+      }
+    },
+    "cssVariableAliases": {
+      "PPL": {
+        "--link": "epoxy",
+        "--pore": "epoxy",
+        "--plate": "epoxy",
+        "--plate-ink": "epoxy-ink",
+        "--focus": "oil"
+      },
+      "XPL": {
+        "--link": "epoxy-xpl",
+        "--pore": "pore-xpl",
+        "--plate": "plate-xpl",
+        "--plate-ink": "#ffffff",
+        "--focus": "epoxy-xpl"
+      },
+      "selectors": {
+        "XPL": [
+          ":root[data-theme=\"dark\"]",
+          "@media (prefers-color-scheme: dark) :root:not([data-theme=\"light\"])"
+        ]
+      }
+    },
+    "mineralPalettes": {
+      "source": "main.js",
+      "groundTexture": {
+        "fill": "var(--pore)",
+        "PPL": {
+          "color": "#ffffff",
+          "alpha": 0.12
+        },
+        "XPL": {
+          "colors": [
+            "#ecece8",
+            "#c3c3bf",
+            "#94948f",
+            "#e6d27c",
+            "#e38a3a",
+            "#c23a86",
+            "#4a73e0",
+            "#2bb3a2",
+            "#b9d64c"
+          ],
+          "alpha": 0.14
+        }
+      },
+      "nodes": {
+        "PPL": "#f5f6f2",
+        "XPL": [
+          "#ecece8",
+          "#e6d27c",
+          "#2bb3a2",
+          "#c3c3bf",
+          "#e38a3a",
+          "#b9d64c",
+          "#e6d27c",
+          "#ecece8"
+        ],
+        "title": {
+          "font": "650 Archivo",
+          "color": "#14161b"
+        },
+        "sublabel": {
+          "font": "400 Archivo",
+          "PPL": "#454b55",
+          "XPL": "rgba(11,12,15,.75)"
+        },
+        "shadow": "rgba(0,0,0,.28)"
+      },
+      "edgeStroke": {
+        "PPL": "rgba(255,255,255,.7)",
+        "XPL": "rgba(236,238,233,.5)"
+      },
+      "reticleStroke": {
+        "PPL": "rgba(255,255,255,.4)",
+        "XPL": "rgba(236,238,233,.28)"
+      },
+      "packets": {
+        "fill": "var(--oil)",
+        "outline": "rgba(0,0,0,.35)",
+        "retry": {
+          "PPL": "#ff7aa2",
+          "XPL": "#c23a86"
+        }
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The name only, one word per line, crossing the eyepiece ring with a 0.1em ground-colored text stroke."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section headings on a 1px ink top rule. No numbers, kickers or eyebrows."
+      },
+      "headline-mail": {
+        "displayName": "Headline Mail",
+        "purpose": "The contact email on the contact plate, underlined at 0.06em."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Role and certification titles in the log."
+      },
+      "role": {
+        "displayName": "Role",
+        "purpose": "The hero role line."
+      },
+      "body-lead": {
+        "displayName": "Body Lead",
+        "purpose": "Profile paragraph, 62ch."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Running text."
+      },
+      "body-small": {
+        "displayName": "Small",
+        "purpose": "Captions, fact labels, footer."
+      },
+      "mark": {
+        "displayName": "Wordmark",
+        "purpose": "MHG in the address bar."
+      },
+      "label-mono": {
+        "displayName": "Label Mono",
+        "purpose": "Figure labels, nav address numerals, polarizer state, pipeline status line, Pause/Play control."
+      },
+      "data-mono": {
+        "displayName": "Data Mono",
+        "purpose": "Dates in the log, tabular numerals."
+      }
+    },
+    "shadows": [
+      {
+        "name": "eyepiece-mount",
+        "value": "0 0 0 1px var(--rule), 0 0 0 10px var(--ground), 0 0 0 11px var(--rule), 0 30px 60px -30px rgba(0, 0, 0, .4)",
+        "purpose": "Double hairline ring and neutral drop under the eyepiece."
+      },
+      {
+        "name": "pill-rest",
+        "value": "0 6px 16px -8px rgba(0, 0, 0, .35)",
+        "purpose": "Primary pill at rest."
+      },
+      {
+        "name": "pill-hover",
+        "value": "0 10px 22px -10px rgba(0, 0, 0, .45)",
+        "purpose": "Primary pill on hover, with a 1px lift."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out-expo",
+        "value": "cubic-bezier(.16, 1, .3, 1)",
+        "purpose": "All movement and theme transitions."
+      },
+      {
+        "name": "duration-hover",
+        "value": ".2s–.25s",
+        "purpose": "Border color, pill lift, arrow nudge."
+      },
+      {
+        "name": "duration-fade",
+        "value": ".3s",
+        "purpose": "Polarizer analyzer line opacity."
+      },
+      {
+        "name": "duration-theme",
+        "value": ".5s",
+        "purpose": "Ground, ink and contact plate crossfade on theme change."
+      },
+      {
+        "name": "duration-rotate",
+        "value": ".6s",
+        "purpose": "Polarizer icon rotating 90 degrees."
+      },
+      {
+        "name": "canvas-dissolve",
+        "value": "700ms, alpha (1-p)^3",
+        "purpose": "Previous eyepiece field dissolving when the polarizer changes."
+      },
+      {
+        "name": "node-flash",
+        "value": "700ms ring, alpha 1-k",
+        "purpose": "A pipeline node rings in packet amber (or retry pink) when a packet arrives."
+      },
+      {
+        "name": "offscreen-halt",
+        "value": "IntersectionObserver + visibilitychange",
+        "purpose": "The pipeline animation stops when the eyepiece is off-screen or the tab is hidden."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "prefers-reduced-motion: reduce",
+        "purpose": "No smooth scroll; the pipeline shows a static mid-run still, the Pause control is hidden, and there is no fade."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "nav-collapse",
+        "value": "960px"
+      },
+      {
+        "name": "hero-stack",
+        "value": "860px"
+      },
+      {
+        "name": "single-column",
+        "value": "640px"
+      },
+      {
+        "name": "narrow",
+        "value": "560px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Pill",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The single primary action: the hero email.",
+      "html": "<a class=\"ds-btn\" href=\"#\">golestan1369@gmail.com</a>",
+      "css": ".ds-btn { display: inline-block; background: var(--epoxy, #1637cc); color: var(--epoxy-ink, #fff); font: 600 1.0625rem/1.6 \"Archivo\", \"Helvetica Neue\", Arial, sans-serif; text-decoration: none; padding: 12px 20px; border-radius: 999px; box-shadow: 0 6px 16px -8px rgba(0,0,0,.35); transition: transform .25s cubic-bezier(.16,1,.3,1), box-shadow .25s; } .ds-btn:hover { transform: translateY(-1px); box-shadow: 0 10px 22px -10px rgba(0,0,0,.45); } .ds-btn:focus-visible { outline: 2px solid var(--focus, #e2a30f); outline-offset: 3px; }"
+    },
+    {
+      "name": "Outbound Link",
+      "kind": "button",
+      "refersTo": "link-out",
+      "description": "LinkedIn and GitHub: ink text over a hairline, with an arrow that nudges out.",
+      "html": "<a class=\"ds-out\" href=\"#\">LinkedIn<svg viewBox=\"0 0 16 16\" width=\"14\" height=\"14\" aria-hidden=\"true\"><path d=\"M5 11 11 5M6 5h5v5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\"/></svg></a>",
+      "css": ".ds-out { display: inline-flex; align-items: center; gap: 4px; font: 600 1.0625rem/1.6 \"Archivo\", \"Helvetica Neue\", Arial, sans-serif; color: var(--ink, #14161b); text-decoration: none; border-bottom: 1px solid var(--rule, #c3c9cf); padding-bottom: 2px; } .ds-out svg { transition: transform .25s cubic-bezier(.16,1,.3,1); } .ds-out:hover { border-color: currentColor; } .ds-out:hover svg { transform: translate(2px,-2px); } .ds-out:focus-visible { outline: 2px solid var(--focus, #e2a30f); outline-offset: 3px; border-radius: 2px; }"
+    },
+    {
+      "name": "Polarizer Toggle",
+      "kind": "button",
+      "refersTo": "polarizer-toggle",
+      "description": "Switches PPL (light) and XPL (dark). The analyzer line fades in and the icon rotates 90 degrees.",
+      "html": "<button class=\"ds-polar\" type=\"button\" aria-pressed=\"false\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/><path d=\"M12 3v18\" stroke=\"currentColor\" stroke-width=\"1.5\"/><path class=\"ds-polar__b\" d=\"M3 12h18\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg><span>PPL</span></button>",
+      "css": ".ds-polar { display: inline-flex; align-items: center; gap: 8px; font: 500 .75rem/1 \"Martian Mono\", ui-monospace, Menlo, monospace; letter-spacing: .02em; color: var(--ink, #14161b); background: transparent; border: 1px solid var(--rule, #c3c9cf); border-radius: 999px; padding: 7px 12px 7px 8px; cursor: pointer; transition: border-color .2s; } .ds-polar:hover { border-color: var(--ink-2, #454b55); } .ds-polar svg { transition: transform .6s cubic-bezier(.16,1,.3,1); } .ds-polar__b { opacity: 0; transition: opacity .3s; } .ds-polar[aria-pressed=\"true\"] svg { transform: rotate(90deg); } .ds-polar[aria-pressed=\"true\"] .ds-polar__b { opacity: 1; } .ds-polar:focus-visible { outline: 2px solid var(--focus, #e2a30f); outline-offset: 3px; }"
+    },
+    {
+      "name": "Address Nav",
+      "kind": "nav",
+      "refersTo": "address-bar",
+      "description": "Sticky translucent bar with the wordmark and mono-numbered section addresses.",
+      "html": "<nav class=\"ds-bar\"><a class=\"ds-mark\" href=\"#\">MHG</a><a class=\"ds-addr\" href=\"#\" aria-current=\"true\"><span>01</span> Profile</a><a class=\"ds-addr\" href=\"#\"><span>02</span> Competencies</a><a class=\"ds-addr\" href=\"#\"><span>03</span> Experience</a><a class=\"ds-addr\" href=\"#\"><span>04</span> Certifications</a></nav>",
+      "css": ".ds-bar { display: flex; align-items: center; gap: 24px; height: 56px; padding-inline: 24px; background: color-mix(in srgb, var(--ground, #eef0f2) 88%, transparent); backdrop-filter: saturate(1.2) blur(10px); border-bottom: 1px solid var(--rule, #c3c9cf); font-family: \"Archivo\", \"Helvetica Neue\", Arial, sans-serif; } .ds-mark { font: 800 1.05rem/1 \"Archivo\", sans-serif; font-variation-settings: \"wdth\" 125; letter-spacing: -.01em; color: var(--ink, #14161b); text-decoration: none; } .ds-addr { color: var(--ink-2, #454b55); text-decoration: none; font-size: .875rem; } .ds-addr span { font: 400 .6875rem \"Martian Mono\", ui-monospace, monospace; color: var(--ink-2, #454b55); margin-right: .15em; } .ds-addr:hover, .ds-addr[aria-current=\"true\"] { color: var(--ink, #14161b); } .ds-addr[aria-current=\"true\"] span { color: var(--link, #1637cc); } .ds-addr:focus-visible { outline: 2px solid var(--focus, #e2a30f); outline-offset: 3px; border-radius: 2px; }"
+    },
+    {
+      "name": "Eyepiece Field",
+      "kind": "custom",
+      "refersTo": "eyepiece",
+      "description": "Signature: circular field with mount shadow, an in-canvas reticle under a grain-node pipeline diagram, and a centred caption whose legend row doubles as the live trace, with a Pause pill.",
+      "html": "<figure class=\"ds-eye\"><div class=\"ds-eye__field\"><svg viewBox=\"0 0 200 200\" aria-hidden=\"true\"><path class=\"ds-eye__ret\" d=\"M100 0v200M0 100h200M60 97v6M70 98v4M80 97v6M90 98v4M110 98v4M120 97v6M130 98v4M140 97v6\"/><path class=\"ds-eye__edge\" d=\"M100 40Q70 55 62 70M62 70Q100 90 138 70\"/><path class=\"ds-eye__node\" d=\"M88 30q12-6 24 0t0 20q-12 6-24 0t0-20z\"/><path class=\"ds-eye__node\" d=\"M48 62q12-5 26 0t0 18q-14 5-26 0t0-18z\"/><path class=\"ds-eye__node\" d=\"M126 62q12-5 26 0t0 18q-14 5-26 0t0-18z\"/><circle class=\"ds-eye__pkt\" cx=\"100\" cy=\"82\" r=\"2.2\"/></svg></div><figcaption class=\"ds-eye__cap\"><p class=\"ds-eye__text\">An agentic pipeline under the microscope. <span class=\"ds-eye__note\">Illustrative simulation, not a live system.</span></p><div class=\"ds-eye__meta\"><span class=\"ds-eye__stat\"><i class=\"ds-eye__dot\"></i><b>9</b> released</span><span class=\"ds-eye__stat\"><i class=\"ds-eye__dot ds-eye__dot--retry\"></i><b>3</b> sent back by the judge</span><button class=\"ds-eye__btn\" type=\"button\" aria-pressed=\"false\">Pause</button></div></figcaption></figure>",
+      "css": ".ds-eye { width: 280px; margin: 24px; font-family: \"Archivo\", \"Helvetica Neue\", Arial, sans-serif; } .ds-eye__field { position: relative; aspect-ratio: 1; border-radius: 50%; overflow: hidden; background: var(--pore, #1637cc); box-shadow: 0 0 0 1px var(--rule, #c3c9cf), 0 0 0 10px var(--ground, #eef0f2), 0 0 0 11px var(--rule, #c3c9cf), 0 30px 60px -30px rgba(0,0,0,.4); } .ds-eye__field svg { position: absolute; inset: 0; width: 100%; height: 100%; } .ds-eye__ret { stroke: rgba(255,255,255,.4); stroke-width: .5; fill: none; } .ds-eye__edge { stroke: rgba(255,255,255,.7); stroke-width: 1; fill: none; } .ds-eye__node { fill: #f5f6f2; } .ds-eye__pkt { fill: var(--oil, #e2a30f); stroke: rgba(0,0,0,.35); stroke-width: .6; } .ds-eye__cap { margin: 32px auto 0; max-width: 54ch; text-align: center; font-family: \"Archivo\", \"Helvetica Neue\", Arial, sans-serif; } .ds-eye__text { margin: 0; font-size: .9375rem; line-height: 1.55; color: var(--ink-2, #454b55); text-wrap: balance; } .ds-eye__note { display: block; margin-top: 6px; font-size: .8125rem; opacity: .8; } .ds-eye__meta { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px 22px; margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--rule, #c3c9cf); font-size: .8125rem; color: var(--ink-2, #454b55); } .ds-eye__stat { display: inline-flex; align-items: center; gap: 7px; } .ds-eye__stat b { font: 500 .8125rem \"Martian Mono\", ui-monospace, monospace; color: var(--ink, #14161b); font-variant-numeric: tabular-nums; } .ds-eye__dot { width: 9px; height: 9px; border-radius: 50%; background: var(--oil, #e2a30f); box-shadow: 0 0 0 1px rgba(0,0,0,.25); } .ds-eye__dot--retry { background: var(--retry, #ff7aa2); } .ds-eye__btn { font: 600 .8125rem \"Archivo\", sans-serif; color: var(--ink, #14161b); background: transparent; border: 1px solid var(--rule, #c3c9cf); border-radius: 999px; padding: 6px 13px; cursor: pointer; } .ds-eye__btn:focus-visible { outline: 2px solid var(--focus, #e2a30f); outline-offset: 3px; }"
+    },
+    {
+      "name": "Log Row",
+      "kind": "custom",
+      "description": "Timeline row: hairline top, mono dates, title and organization, grain-bulleted list.",
+      "html": "<div class=\"ds-log\"><p class=\"ds-log__years\">2026–now</p><div><h3 class=\"ds-log__t\">AI Automation Analyst</h3><p class=\"ds-log__org\">Verisk · Málaga, Spain</p></div><ul class=\"ds-log__list\"><li>Designed agentic AI pipelines using LangGraph and RAG on AWS Bedrock.</li><li>Implemented LLM-as-a-judge evaluation pipelines.</li></ul></div>",
+      "css": ".ds-log { display: grid; grid-template-columns: 2fr 4fr 6fr; column-gap: 24px; border-top: 1px solid var(--rule, #c3c9cf); padding: 24px 0 36px; font: 400 1.0625rem/1.6 \"Archivo\", \"Helvetica Neue\", Arial, sans-serif; color: var(--ink, #14161b); } .ds-log__years { margin: 0; font: 400 .8125rem/1.9 \"Martian Mono\", ui-monospace, monospace; color: var(--link, #1637cc); font-variant-numeric: tabular-nums; } .ds-log__t { margin: 0; font-weight: 700; font-variation-settings: \"wdth\" 110; font-size: 1.3125rem; line-height: 1.25; } .ds-log__org { margin: 4px 0 0; color: var(--ink-2, #454b55); font-size: .9375rem; } .ds-log__list { margin: 0; padding: 0; list-style: none; display: grid; gap: 10px; } .ds-log__list li { position: relative; padding-left: 18px; } .ds-log__list li::before { content: \"\"; position: absolute; left: 0; top: .72em; width: 7px; height: 7px; border-radius: 45% 55% 50% 40%; background: var(--epoxy, #1637cc); opacity: .85; }"
+    },
+    {
+      "name": "Contact Plate",
+      "kind": "custom",
+      "refersTo": "contact-plate",
+      "description": "Full-bleed plate field (epoxy in PPL, gypsum magenta in XPL) with the email as a headline.",
+      "html": "<section class=\"ds-contact\"><h2 class=\"ds-contact__h\">Contact</h2><p class=\"ds-contact__lede\">Open to conversations about agentic AI, evaluation, and automation.</p><a class=\"ds-contact__mail\" href=\"#\">golestan1369@gmail.com</a></section>",
+      "css": ".ds-contact { background: var(--plate, #1637cc); color: var(--plate-ink, #fff); padding: 56px 32px 64px; font-family: \"Archivo\", \"Helvetica Neue\", Arial, sans-serif; } .ds-contact__h { margin: 0 0 32px; padding-top: 20px; border-top: 1px solid var(--plate-ink, #fff); font-weight: 800; font-variation-settings: \"wdth\" 118; font-size: 2.25rem; line-height: 1; letter-spacing: -.03em; } .ds-contact__lede { margin: 0 0 28px; font-size: 1.125rem; max-width: 40ch; color: var(--plate-ink-2, #d3dcff); } .ds-contact__mail { color: var(--plate-ink, #fff); font-weight: 800; font-variation-settings: \"wdth\" 112; font-size: 1.75rem; line-height: 1.05; letter-spacing: -.03em; text-decoration: underline; text-decoration-thickness: .06em; text-underline-offset: .14em; overflow-wrap: anywhere; } .ds-contact__mail:hover { text-decoration-thickness: .1em; } .ds-contact__mail:focus-visible { outline: 2px solid var(--plate-ink, #fff); outline-offset: 3px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "Thin Section",
+    "overview": "The page is a thin section of rock under a petrographic microscope, where his PhD lived. The first viewport is one eyepiece field: an illustrative agentic AI pipeline drawn as a thin section, its stages as grain-shaped nodes on blue epoxy, with amber request packets flowing between them. Everything else on the page is the lab bench around that field. It is a cool, clear ground and one monumental wide grotesk, and its only geometry is the microscope's reticle and a point-count grid of small crosses.\n\nThe system has two states, and they are the microscope's two states. Plane-polarized light (PPL) is the light theme: cool grain-white, epoxy blue, amber packets. Crossed polars (XPL) is the dark theme: the isotropic epoxy goes extinct to black and the grains flash interference colors. The polarizer toggle rotates one state into the other, and the canvas dissolves between them. Chromatic color lives in the material (the pores, the grains, the packets, the contact plate) and in the single action color, which is the epoxy itself. Reading columns stay achromatic.\n\nDensity is editorial and generous: a 12-column grid, a hairline rule above each block, and a heavy headline above a black rule to open each section. The page rejects the dark dev-portfolio hero with a gradient headline and a card grid.",
+    "keyCharacteristics": [
+      "One eyepiece field as the signature: a pipeline diagram drawn in thin-section material, with reticle hairlines carried across the whole hero.",
+      "Two themes that are physical states of the instrument (PPL and XPL), not a color inversion.",
+      "One wide variable grotesk (Archivo, width axis 100 to 125) for everything readable. Martian Mono only as the instrument's voice.",
+      "Hairline rules and a 120px point-count grid carry the structure. There are no cards.",
+      "Neutral shadows only, used on the eyepiece and the primary pill."
+    ],
+    "rules": [
+      {
+        "name": "The Cool Ground Rule",
+        "body": "The light ground is cool: in every PPL neutral the blue channel is equal to or greater than the red (`#eef0f2`, `#e3e7ea`, `#c3c9cf`). A warm cream ground is a different world.",
+        "section": "colors"
+      },
+      {
+        "name": "The Material-Only Rule",
+        "body": "Chromatic color belongs to the specimen (pores, grains, packets, the contact plate) and to the single epoxy action color. Body, captions and headings stay in ink and ink-2.",
+        "section": "colors"
+      },
+      {
+        "name": "The Ink Surname Rule",
+        "body": "The name, surname included, is set entirely in ink. No part of the name takes an accent color.",
+        "section": "colors"
+      },
+      {
+        "name": "The Instrument Voice Rule",
+        "body": "Mono is only for measurements, dates and figure labels, plus the instrument's own readouts: the nav address numerals, the PPL/XPL polarizer state, and the live pipeline counts. It is never used for headings, body text or prose.",
+        "section": "typography"
+      },
+      {
+        "name": "The Clean Heading Rule",
+        "body": "Headings carry no section-number labels, kickers or eyebrows. The section addresses (01 to 05) live only in the nav numerals.",
+        "section": "typography"
+      },
+      {
+        "name": "The Neutral Shadow Rule",
+        "body": "Shadows are neutral black at low alpha, never tinted, and never a colored glow.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do keep the PPL ground cool, with blue equal to or greater than red, as in `#eef0f2`.",
+      "Do set the whole name, surname included, in ink.",
+      "Do open every section with the headline type on a 1px ink top rule, and separate items with 1px rule hairlines.",
+      "Do use `cubic-bezier(.16, 1, .3, 1)` for movement and theme transitions (0.25s for hover, 0.5s for theme, 0.6s for rotation).",
+      "Do keep chromatic color in the material and the epoxy action color. Keep the mineral palettes on the canvas.",
+      "Do honor `prefers-reduced-motion`: no smooth scroll, no packet animation, no fade. Show a static still instead."
+    ],
+    "donts": [
+      "Don't put section numbers, kickers or eyebrows in headings. The addresses belong to the nav numerals.",
+      "Don't set headings, body text or prose in mono. Mono is for measurements, dates, figure labels and instrument readouts.",
+      "Don't tint shadows or add colored glows. Shadows are neutral `rgba(0, 0, 0, …)`.",
+      "Don't give the name or surname an accent color.",
+      "Don't use a gradient headline, a card grid, or a dark dev-portfolio hero.",
+      "Don't add UI geometry beyond the reticle, the point-count grid and the rules. The pipeline diagram lives inside the eyepiece only."
+    ]
+  }
+}

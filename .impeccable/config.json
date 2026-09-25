@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "cramped-padding",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-25T10:19:40.073Z",
+        "reason": "finish reviewer verified: section.contact inner .wrap carries --gutter inline padding and the section has padding-block"
+      }
+    ]
+  }
+}
